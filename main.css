@@ -1,0 +1,125 @@
+.line{
+    width: 250px;
+    height:1px;
+    background-color: rgb(251, 250, 249);
+}
+.sec1{
+    background-color: cornflowerblue;
+    padding: 30px;
+}
+.line2{
+    width: 250px;
+    height:1px;
+    background-color: rgb(184, 188, 178);
+    margin: auto;
+    
+}
+.container2{
+    text-align: center;
+}
+.inbox2{
+    text-align: center;
+}
+
+a.button{
+    background-color: rgb(236, 234, 238);
+    padding: 10px;
+    text-decoration: none;
+}
+a.button2{
+    padding: 10px;
+    text-decoration: none;
+    /*background-color: aqua;*/
+    border-style: solid;
+    border-radius: 2px;
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+
+}
+
+.sec3{
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 60px;
+}
+
+img.img1{
+    margin-top: 15px;
+}
+img.zayn{
+    /* margin-right: 200px; */
+    height: 550px;
+}
+.inbox3{
+    color: white;
+    padding-top: 50px;
+}
+.sec4{
+    text-align: center;
+    background-color:dimgray;
+    color: white;
+    padding-bottom: 20px;
+}
+a.button3{
+    padding: 10px;
+    text-decoration: none;
+    /*background-color: aqua;*/
+    /*border-style: solid;
+    border-radius: 2px;
+    border-color: deepskyblue;*/
+    color: cornflowerblue;
+    background-color: white;
+    display: inline-block
+
+}
+.inbox4{
+    padding-top: 30px;
+}
+.line5{
+    width: 200px;
+    height:1px;
+    background-color: rgb(184, 188, 178);
+    margin:auto;
+    margin-bottom: 25px;
+}
+.sec5{
+    text-align: center;
+    margin: auto;
+    padding: 60px;
+}
+.model img{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+.model{
+    margin-top: 15px;
+}
+.sec6{
+    background-color: dimgray ;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 60px;
+}
+.inbox5{
+    padding-top: 30px;
+}
+.sec7{
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+}
+.sec2{
+    margin: auto;
+    padding: 40px;
+}
+
+@media(max-width:500px){
+    img.zayn{
+        height: auto;
+        width: 100%;
+    }
+}
